@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(25, 23, 23);
+}
+#heading{
+    text-align:center;
+    color: white;
+}
+#main-section{
+    border-style: solid;
+    border-radius: 40px;
+    border-color: white;
+    margin: 40px;
+    padding: 40px;
+}
+#timer-container,#btn-container{
+    
+    text-align: center;
+}
+
+#sec,#min,#colon{
+    color:white;
+}
